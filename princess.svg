@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 훠궈 공주 캐릭터: 왕관 쓴 원앙 훠궈 냄비 (직접 그린 그림) -->
+  <rect width="200" height="200" fill="#ffd1dc"/>
+  <!-- 김 모락모락 -->
+  <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round">
+    <path d="M48 80 q-10 -12 0 -24 q10 -12 0 -24"/>
+    <path d="M152 80 q-10 -12 0 -24 q10 -12 0 -24"/>
+  </g>
+  <!-- 손잡이 -->
+  <ellipse cx="36" cy="115" rx="10" ry="14" fill="none" stroke="#f06a8d" stroke-width="7"/>
+  <ellipse cx="164" cy="115" rx="10" ry="14" fill="none" stroke="#f06a8d" stroke-width="7"/>
+  <!-- 냄비 몸통 -->
+  <path d="M40 98 Q40 175 100 175 Q160 175 160 98 Z" fill="#ff8fab"/>
+  <!-- 냄비 테두리 -->
+  <ellipse cx="100" cy="98" rx="62" ry="16" fill="#f06a8d"/>
+  <!-- 국물: 왼쪽 마라탕(빨강) + 오른쪽 백탕(하양) = 원앙 냄비 -->
+  <clipPath id="broth"><ellipse cx="100" cy="98" rx="53" ry="11"/></clipPath>
+  <g clip-path="url(#broth)">
+    <rect x="40" y="80" width="60" height="40" fill="#ff5a5a"/>
+    <rect x="100" y="80" width="60" height="40" fill="#fff3e6"/>
+    <circle cx="70" cy="97" r="3" fill="#ffd36b"/>
+    <circle cx="130" cy="99" r="3" fill="#b9e4c9"/>
+  </g>
+  <!-- 왕관 -->
+  <polygon points="74,92 74,64 87,77 100,56 113,77 126,64 126,92" fill="#ffd36b" stroke="#f0a830" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="74" cy="64" r="4.5" fill="#ffb6c8"/>
+  <circle cx="100" cy="56" r="5" fill="#ffb6c8"/>
+  <circle cx="126" cy="64" r="4.5" fill="#ffb6c8"/>
+  <circle cx="100" cy="82" r="5" fill="#f06a8d"/>
+  <!-- 얼굴 -->
+  <circle cx="80" cy="132" r="6.5" fill="#6b4a55"/>
+  <circle cx="120" cy="132" r="6.5" fill="#6b4a55"/>
+  <circle cx="82" cy="129" r="2.2" fill="#fff"/>
+  <circle cx="122" cy="129" r="2.2" fill="#fff"/>
+  <ellipse cx="64" cy="146" rx="10" ry="6" fill="#ff5a7d" opacity="0.45"/>
+  <ellipse cx="136" cy="146" rx="10" ry="6" fill="#ff5a7d" opacity="0.45"/>
+  <path d="M91 145 Q100 155 109 145" fill="none" stroke="#6b4a55" stroke-width="3" stroke-linecap="round"/>
+</svg>

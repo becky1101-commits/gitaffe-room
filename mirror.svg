@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 220">
+  <!-- 하트 장식 전신 거울 (직접 그린 그림) -->
+  <g stroke="#f06a8d" stroke-width="6" stroke-linecap="round">
+    <line x1="42" y1="165" x2="28" y2="214"/>
+    <line x1="78" y1="165" x2="92" y2="214"/>
+  </g>
+  <ellipse cx="60" cy="100" rx="48" ry="76" fill="#ff8fab"/>
+  <ellipse cx="60" cy="100" rx="38" ry="65" fill="#f5f0ff"/>
+  <g stroke="#fff" stroke-linecap="round">
+    <line x1="36" y1="70" x2="54" y2="50" stroke-width="7"/>
+    <line x1="34" y1="92" x2="64" y2="60" stroke-width="4"/>
+  </g>
+  <path d="M60 34 C38 18 46 2 60 12 C74 2 82 18 60 34 Z" fill="#f06a8d"/>
+</svg>

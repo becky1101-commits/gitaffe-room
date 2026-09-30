@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 140">
+  <!-- 왕관과 트로피가 놓인 벽 선반 (직접 그린 그림) -->
+  <!-- 반짝이 -->
+  <g stroke="#ffd36b" stroke-width="3" stroke-linecap="round">
+    <path d="M40 30 v12 M34 36 h12"/>
+    <path d="M142 22 v12 M136 28 h12"/>
+  </g>
+  <!-- 트로피 -->
+  <path d="M22 66 h26 v10 q0 18 -13 18 q-13 0 -13 -18 z" fill="#ffd36b"/>
+  <rect x="33" y="94" width="4" height="7" fill="#f0a830"/>
+  <rect x="26" y="101" width="18" height="8" rx="2" fill="#f0a830"/>
+  <!-- 왕관 -->
+  <polygon points="58,108 58,66 76,84 90,54 104,84 122,66 122,108" fill="#ffd36b" stroke="#f0a830" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="58" cy="66" r="5" fill="#ffb6c8"/>
+  <circle cx="90" cy="54" r="5.5" fill="#ffb6c8"/>
+  <circle cx="122" cy="66" r="5" fill="#ffb6c8"/>
+  <circle cx="90" cy="94" r="7" fill="#ff8fab"/>
+  <circle cx="71" cy="97" r="4" fill="#f06a8d"/>
+  <circle cx="109" cy="97" r="4" fill="#f06a8d"/>
+  <!-- 하트 -->
+  <path d="M150 108 C132 96 138 82 150 90 C162 82 168 96 150 108 Z" fill="#ff8fab"/>
+  <!-- 선반 -->
+  <rect x="8" y="109" width="164" height="12" rx="6" fill="#fff" stroke="#ffb6c8" stroke-width="3"/>
+  <path d="M28 121 l0 14 l14 -14 z M152 121 l0 14 l-14 -14 z" fill="#ffb6c8"/>
+</svg>

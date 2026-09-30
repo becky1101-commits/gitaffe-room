@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 200">
+  <!-- 하늘을 보는 망원경 (직접 그린 그림) -->
+  <!-- 반짝 별 -->
+  <path d="M142 8 l3 7 7 3 -7 3 -3 7 -3 -7 -7 -3 7 -3z" fill="#f7c948"/>
+  <circle cx="118" cy="10" r="3" fill="#ff8fab"/>
+  <!-- 삼각대 -->
+  <g stroke="#9a6433" stroke-width="6" stroke-linecap="round">
+    <line x1="78" y1="112" x2="36" y2="194"/>
+    <line x1="78" y1="112" x2="120" y2="194"/>
+    <line x1="78" y1="112" x2="78" y2="196"/>
+  </g>
+  <!-- 경통 (오른쪽 위로 기울어짐) -->
+  <g transform="rotate(-35 78 104)">
+    <rect x="22" y="92" width="120" height="26" rx="12" fill="#b7c9ff"/>
+    <rect x="118" y="86" width="30" height="38" rx="10" fill="#8fa8f5"/>
+    <rect x="12" y="96" width="16" height="18" rx="5" fill="#8fa8f5"/>
+    <rect x="58" y="92" width="10" height="26" fill="#ff8fab"/>
+    <rect x="92" y="92" width="10" height="26" fill="#ff8fab"/>
+    <circle cx="80" cy="96" r="3" fill="#fff"/>
+  </g>
+  <circle cx="78" cy="112" r="8" fill="#9a6433"/>
+</svg>

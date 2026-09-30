@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 150">
+  <!-- 나뭇잎 달린 기린 무늬 벽시계 (초침이 진짜로 돌아가요!) -->
+  <!-- 나뭇잎 장식 -->
+  <ellipse cx="44" cy="30" rx="20" ry="10" fill="#9fd8b5" transform="rotate(-30 44 30)"/>
+  <ellipse cx="76" cy="30" rx="20" ry="10" fill="#7cc49a" transform="rotate(30 76 30)"/>
+  <circle cx="60" cy="34" r="6" fill="#ffb3c1"/>
+  <!-- 시계 테두리 (기린 무늬) -->
+  <circle cx="60" cy="90" r="50" fill="#ffd36b"/>
+  <circle cx="24" cy="80" r="6" fill="#e8a33d"/>
+  <circle cx="92" cy="60" r="5" fill="#e8a33d"/>
+  <circle cx="96" cy="112" r="6" fill="#e8a33d"/>
+  <circle cx="34" cy="124" r="5" fill="#e8a33d"/>
+  <!-- 시계 판 -->
+  <circle cx="60" cy="90" r="38" fill="#fff"/>
+  <g fill="#c99a6b">
+    <circle cx="60" cy="58" r="3.5"/>
+    <circle cx="92" cy="90" r="3.5"/>
+    <circle cx="60" cy="122" r="3.5"/>
+    <circle cx="28" cy="90" r="3.5"/>
+  </g>
+  <!-- 시침·분침 (10시 10분 = 웃는 얼굴 모양) -->
+  <line x1="60" y1="90" x2="44" y2="80" stroke="#6b5534" stroke-width="5" stroke-linecap="round"/>
+  <line x1="60" y1="90" x2="82" y2="72" stroke="#6b5534" stroke-width="4" stroke-linecap="round"/>
+  <!-- 초침: 60초에 한 바퀴 -->
+  <line x1="60" y1="96" x2="60" y2="60" stroke="#ff8fab" stroke-width="2" stroke-linecap="round">
+    <animateTransform attributeName="transform" type="rotate" from="0 60 90" to="360 60 90" dur="60s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="60" cy="90" r="4" fill="#ff8fab"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 150">
+  <!-- 벽에 붙은 보물지도 (직접 그린 그림) -->
+  <rect x="18" y="16" width="164" height="118" rx="6" fill="#fff6d9" stroke="#d9a441" stroke-width="4"/>
+  <!-- 둘둘 말린 끝 -->
+  <rect x="8" y="10" width="16" height="130" rx="8" fill="#f2d28a" stroke="#d9a441" stroke-width="3"/>
+  <rect x="176" y="10" width="16" height="130" rx="8" fill="#f2d28a" stroke="#d9a441" stroke-width="3"/>
+  <!-- 섬 -->
+  <path d="M40 90 q10 -20 30 -10 q20 -6 22 12 q-4 16 -26 14 q-24 4 -26 -16z" fill="#bfe6c8"/>
+  <path d="M120 44 q14 -12 30 -2 q12 10 0 22 q-18 8 -30 -4 q-8 -8 0 -16z" fill="#bfe6c8"/>
+  <!-- 점선 길 -->
+  <path d="M50 110 Q70 60 100 80 T150 50" fill="none" stroke="#f06a8d" stroke-width="3" stroke-dasharray="6 6" stroke-linecap="round"/>
+  <!-- 출발점 -->
+  <circle cx="50" cy="112" r="5" fill="#f06a8d"/>
+  <!-- 보물 X 표시 -->
+  <path d="M142 42 l16 16 M158 42 l-16 16" stroke="#e64a4a" stroke-width="5" stroke-linecap="round"/>
+  <!-- 나침반 별 -->
+  <path d="M160 108 l4 10 10 4 -10 4 -4 10 -4 -10 -10 -4 10 -4z" fill="#f7c948"/>
+  <!-- 압정 -->
+  <circle cx="100" cy="20" r="6" fill="#ff8fab"/>
+</svg>

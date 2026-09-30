@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 170">
+  <!-- 책과 스탠드가 있는 공부 책상 (직접 그린 그림) -->
+  <!-- 다리와 서랍 -->
+  <rect x="22" y="104" width="10" height="62" rx="4" fill="#ffb6c8"/>
+  <rect x="188" y="104" width="10" height="62" rx="4" fill="#ffb6c8"/>
+  <rect x="128" y="104" width="60" height="32" rx="6" fill="#fff" stroke="#ffb6c8" stroke-width="3"/>
+  <circle cx="158" cy="120" r="3.5" fill="#f06a8d"/>
+  <!-- 책 더미 -->
+  <rect x="24" y="78" width="58" height="14" rx="3" fill="#ff8fab"/>
+  <rect x="30" y="64" width="48" height="14" rx="3" fill="#ffd36b"/>
+  <rect x="22" y="50" width="54" height="14" rx="3" fill="#b9e4c9"/>
+  <!-- 연필꽂이 -->
+  <line x1="104" y1="68" x2="100" y2="46" stroke="#ffd36b" stroke-width="4" stroke-linecap="round"/>
+  <line x1="110" y1="68" x2="112" y2="42" stroke="#b9e4c9" stroke-width="4" stroke-linecap="round"/>
+  <line x1="116" y1="68" x2="122" y2="48" stroke="#ff8fab" stroke-width="4" stroke-linecap="round"/>
+  <rect x="98" y="64" width="22" height="28" rx="5" fill="#fff" stroke="#ffb6c8" stroke-width="3"/>
+  <!-- 스탠드 -->
+  <path d="M182 90 L170 52 L190 32" fill="none" stroke="#f06a8d" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M184 24 L210 38 L198 50 Z" fill="#ffb6c8"/>
+  <ellipse cx="182" cy="91" rx="16" ry="4" fill="#f06a8d"/>
+  <!-- 책상 윗면 -->
+  <rect x="8" y="92" width="204" height="14" rx="6" fill="#fff" stroke="#ffb6c8" stroke-width="3"/>
+</svg>

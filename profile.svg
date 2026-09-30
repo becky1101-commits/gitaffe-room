@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- 귀여운 토끼 프로필 캐릭터 (직접 그린 그림) -->
+  <rect width="200" height="200" fill="#ffd1dc"/>
+  <!-- 귀 -->
+  <ellipse cx="72" cy="55" rx="18" ry="45" fill="#fff"/>
+  <ellipse cx="128" cy="55" rx="18" ry="45" fill="#fff"/>
+  <ellipse cx="72" cy="58" rx="9" ry="32" fill="#ffb6c8"/>
+  <ellipse cx="128" cy="58" rx="9" ry="32" fill="#ffb6c8"/>
+  <!-- 얼굴 -->
+  <ellipse cx="100" cy="125" rx="62" ry="55" fill="#fff"/>
+  <!-- 눈 -->
+  <circle cx="78" cy="118" r="7" fill="#6b4a55"/>
+  <circle cx="122" cy="118" r="7" fill="#6b4a55"/>
+  <circle cx="80" cy="115" r="2.5" fill="#fff"/>
+  <circle cx="124" cy="115" r="2.5" fill="#fff"/>
+  <!-- 볼터치 -->
+  <ellipse cx="65" cy="138" rx="11" ry="7" fill="#ff8fab" opacity="0.6"/>
+  <ellipse cx="135" cy="138" rx="11" ry="7" fill="#ff8fab" opacity="0.6"/>
+  <!-- 코와 입 -->
+  <ellipse cx="100" cy="132" rx="5" ry="4" fill="#f06a8d"/>
+  <path d="M92 140 Q100 148 100 138 Q100 148 108 140" fill="none" stroke="#6b4a55" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- 리본 -->
+  <path d="M100 78 L82 66 L82 90 Z" fill="#f06a8d"/>
+  <path d="M100 78 L118 66 L118 90 Z" fill="#f06a8d"/>
+  <circle cx="100" cy="78" r="6" fill="#ff8fab"/>
+</svg>

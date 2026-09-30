@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 420">
+  <!-- 길쭉하고 뽀짝한 기린 캐릭터 (직접 그린 그림) -->
+
+  <!-- 꼬리 -->
+  <path d="M144 292 Q160 300 158 326" fill="none" stroke="#f2b84b" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="158" cy="332" rx="5" ry="8" fill="#a8672e"/>
+
+  <!-- 뒷다리 (조금 진한 색으로 뒤쪽 느낌) -->
+  <rect x="62" y="296" width="13" height="108" rx="6.5" fill="#f2b84b"/>
+  <rect x="125" y="296" width="13" height="108" rx="6.5" fill="#f2b84b"/>
+  <rect x="62" y="396" width="13" height="12" rx="4" fill="#8a5a2b"/>
+  <rect x="125" y="396" width="13" height="12" rx="4" fill="#8a5a2b"/>
+
+  <!-- 몸통 -->
+  <ellipse cx="100" cy="292" rx="50" ry="30" fill="#ffd36b"/>
+  <path d="M62 282 q10 -10 20 -2 q2 12 -10 14 q-12 -2 -10 -12z" fill="#e8a33d"/>
+  <path d="M122 276 q12 -6 18 4 q0 11 -12 11 q-10 -3 -6 -15z" fill="#e8a33d"/>
+  <path d="M96 300 q8 -6 14 0 q0 9 -8 9 q-8 -2 -6 -9z" fill="#e8a33d"/>
+
+  <!-- 앞다리 (길~쭉) -->
+  <rect x="80" y="300" width="14" height="110" rx="7" fill="#ffd36b"/>
+  <rect x="106" y="300" width="14" height="110" rx="7" fill="#ffd36b"/>
+  <circle cx="87" cy="356" r="3" fill="#f2b84b"/>
+  <circle cx="113" cy="356" r="3" fill="#f2b84b"/>
+  <rect x="80" y="400" width="14" height="14" rx="4" fill="#9a6433"/>
+  <rect x="106" y="400" width="14" height="14" rx="4" fill="#9a6433"/>
+
+  <!-- 길고 날씬한 목 (위로 갈수록 가늘어짐) -->
+  <path d="M88 110 Q82 200 74 288 L126 288 Q118 200 112 110 Z" fill="#ffd36b"/>
+  <!-- 목 무늬: 아래로 갈수록 조금씩 커져요 -->
+  <path d="M92 146 q6 -5 11 0 q1 7 -6 7 q-6 -1 -5 -7z" fill="#e8a33d"/>
+  <path d="M100 172 q7 -5 12 1 q0 8 -7 8 q-7 -2 -5 -9z" fill="#e8a33d"/>
+  <path d="M86 198 q8 -6 14 1 q0 9 -8 9 q-8 -2 -6 -10z" fill="#e8a33d"/>
+  <path d="M104 226 q8 -6 14 1 q0 10 -8 10 q-8 -2 -6 -11z" fill="#e8a33d"/>
+  <path d="M82 252 q9 -6 15 1 q0 10 -9 10 q-8 -2 -6 -11z" fill="#e8a33d"/>
+
+  <!-- 뿔 -->
+  <line x1="87" y1="58" x2="82" y2="20" stroke="#ffd36b" stroke-width="7" stroke-linecap="round"/>
+  <line x1="113" y1="58" x2="118" y2="20" stroke="#ffd36b" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="82" cy="18" r="7" fill="#a8672e"/>
+  <circle cx="118" cy="18" r="7" fill="#a8672e"/>
+
+  <!-- 귀 -->
+  <ellipse cx="56" cy="68" rx="17" ry="7.5" fill="#ffd36b" transform="rotate(-25 56 68)"/>
+  <ellipse cx="144" cy="68" rx="17" ry="7.5" fill="#ffd36b" transform="rotate(25 144 68)"/>
+  <ellipse cx="56" cy="68" rx="10" ry="3.5" fill="#ffb3c1" transform="rotate(-25 56 68)"/>
+  <ellipse cx="144" cy="68" rx="10" ry="3.5" fill="#ffb3c1" transform="rotate(25 144 68)"/>
+
+  <!-- 머리 (살짝 갸름하게) -->
+  <path d="M100 46 C130 46 140 70 136 92 C132 112 122 128 100 130 C78 128 68 112 64 92 C60 70 70 46 100 46 Z" fill="#ffd36b"/>
+  <!-- 주둥이 -->
+  <ellipse cx="100" cy="112" rx="24" ry="17" fill="#fff1c4"/>
+  <ellipse cx="92" cy="108" rx="2.6" ry="2" fill="#9a6433"/>
+  <ellipse cx="108" cy="108" rx="2.6" ry="2" fill="#9a6433"/>
+  <path d="M93 117 Q100 123 107 117" fill="none" stroke="#6b4a2b" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- 속눈썹 달린 초롱초롱 눈 -->
+  <g stroke="#3f2c1a" stroke-width="2.2" stroke-linecap="round">
+    <line x1="74" y1="78" x2="68" y2="73"/>
+    <line x1="78" y1="75" x2="75" y2="68"/>
+    <line x1="126" y1="78" x2="132" y2="73"/>
+    <line x1="122" y1="75" x2="125" y2="68"/>
+  </g>
+  <ellipse cx="82" cy="86" rx="8.5" ry="10" fill="#3f2c1a"/>
+  <ellipse cx="118" cy="86" rx="8.5" ry="10" fill="#3f2c1a"/>
+  <circle cx="85" cy="82" r="3.6" fill="#fff"/>
+  <circle cx="121" cy="82" r="3.6" fill="#fff"/>
+  <circle cx="79.5" cy="90" r="1.6" fill="#fff"/>
+  <circle cx="115.5" cy="90" r="1.6" fill="#fff"/>
+
+  <!-- 볼터치 -->
+  <ellipse cx="70" cy="102" rx="8" ry="5" fill="#ffb3c1"/>
+  <ellipse cx="130" cy="102" rx="8" ry="5" fill="#ffb3c1"/>
+
+  <!-- 머리 위 꽃 화관 -->
+  <g>
+    <circle cx="86" cy="52" r="6" fill="#fff"/>
+    <circle cx="100" cy="47" r="7" fill="#ffb3c1"/>
+    <circle cx="114" cy="52" r="6" fill="#fff"/>
+    <circle cx="86" cy="52" r="2.5" fill="#f7c948"/>
+    <circle cx="100" cy="47" r="3" fill="#fff6c9"/>
+    <circle cx="114" cy="52" r="2.5" fill="#f7c948"/>
+    <ellipse cx="93" cy="55" rx="4" ry="2" fill="#9fd8b5"/>
+    <ellipse cx="107" cy="55" rx="4" ry="2" fill="#9fd8b5"/>
+  </g>
+</svg>

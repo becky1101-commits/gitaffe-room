@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200">
+  <!-- 꿈을 향해 떠 있는 구름과 별 (직접 그린 그림) -->
+  <rect width="240" height="200" rx="30" fill="#fffbe6"/>
+  <!-- 별 -->
+  <path d="M120 22 L129 46 L154 47 L134 62 L141 86 L120 72 L99 86 L106 62 L86 47 L111 46 Z" fill="#f7c948"/>
+  <circle cx="50" cy="40" r="5" fill="#ffe066"/>
+  <circle cx="195" cy="55" r="4" fill="#ffb3c1"/>
+  <circle cx="200" cy="25" r="3" fill="#e8a317"/>
+  <!-- 구름 -->
+  <path d="M55 160 a28 28 0 0 1 10-52 a36 36 0 0 1 66-12 a30 30 0 0 1 52 18 a24 24 0 0 1 2 46 Z" fill="#ffffff" stroke="#ffe066" stroke-width="4"/>
+  <!-- 구름 얼굴 -->
+  <circle cx="100" cy="135" r="5" fill="#6b5534"/>
+  <circle cx="140" cy="135" r="5" fill="#6b5534"/>
+  <path d="M112 145 Q120 153 128 145" fill="none" stroke="#6b5534" stroke-width="3" stroke-linecap="round"/>
+  <ellipse cx="88" cy="146" rx="8" ry="5" fill="#ffb3c1"/>
+  <ellipse cx="152" cy="146" rx="8" ry="5" fill="#ffb3c1"/>
+</svg>

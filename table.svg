@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 160">
+  <!-- 훠궈 냄비가 끓고 있는 동그란 밥상 (직접 그린 그림) -->
+  <!-- 김 -->
+  <g fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round">
+    <path d="M88 52 q-8 -10 0 -20 q8 -10 0 -20"/>
+    <path d="M110 48 q-8 -10 0 -20 q8 -10 0 -20"/>
+    <path d="M132 52 q-8 -10 0 -20 q8 -10 0 -20"/>
+  </g>
+  <!-- 상다리 -->
+  <rect x="42" y="124" width="10" height="30" rx="4" fill="#ffb6c8"/>
+  <rect x="168" y="124" width="10" height="30" rx="4" fill="#ffb6c8"/>
+  <!-- 상판 -->
+  <ellipse cx="110" cy="120" rx="102" ry="22" fill="#fff" stroke="#ffb6c8" stroke-width="4"/>
+  <!-- 앞접시와 젓가락 -->
+  <path d="M18 112 Q18 126 32 126 Q46 126 46 112 Z" fill="#fff" stroke="#ff8fab" stroke-width="3"/>
+  <line x1="176" y1="126" x2="206" y2="112" stroke="#f0a830" stroke-width="3" stroke-linecap="round"/>
+  <line x1="180" y1="129" x2="210" y2="116" stroke="#f0a830" stroke-width="3" stroke-linecap="round"/>
+  <!-- 냄비 -->
+  <ellipse cx="58" cy="82" rx="7" ry="10" fill="none" stroke="#f06a8d" stroke-width="5"/>
+  <ellipse cx="162" cy="82" rx="7" ry="10" fill="none" stroke="#f06a8d" stroke-width="5"/>
+  <path d="M62 70 Q62 116 110 116 Q158 116 158 70 Z" fill="#ff8fab"/>
+  <ellipse cx="110" cy="70" rx="50" ry="12" fill="#f06a8d"/>
+  <clipPath id="soup"><ellipse cx="110" cy="70" rx="43" ry="8"/></clipPath>
+  <g clip-path="url(#soup)">
+    <rect x="60" y="55" width="50" height="30" fill="#ff5a5a"/>
+    <rect x="110" y="55" width="50" height="30" fill="#fff3e6"/>
+  </g>
+  <circle cx="96" cy="90" r="4" fill="#6b4a55"/>
+  <circle cx="124" cy="90" r="4" fill="#6b4a55"/>
+  <path d="M104 98 Q110 104 116 98" fill="none" stroke="#6b4a55" stroke-width="2.5" stroke-linecap="round"/>
+</svg>
